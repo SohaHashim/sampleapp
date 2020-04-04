@@ -3,12 +3,17 @@ body{
     background: indigo;
     
 }
+*{
+    margin: 0;
+    padding: 0;
+}
 .col-sm-4 p{
     background-color: coral;
     text-align: center;
 }
 .container{
     background-color: darkcyan;
+    
 }
 .col-sm-4{
     width: 10%;
